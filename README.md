@@ -21,3 +21,27 @@
 - <a href="https://a.co/d/5O8ANke"> 📚 Abismo Marinho - Vol 1 </a>
 - <a href="https://a.co/d/8rfdwck"> 📚 Angústias e Amores de um Pseudopoeta </a>
 
+## Vamos aos projetos!
+Aqui você vai encontrar diversos repositórios focados especificamente em análise de dados. Usando como linguagem principal, o Python.
+
+### Visão Geral do Python
+
+Se você está começando agora e pretende ter uma visão geral de como usar o python e aplicar os conceitos, vale a pena dar uma olhada nesse repositório: 
+
+- <a href="https://github.com/r-hugoalves/Python_Analise_de_Dados"> 📈 Python - Análise de Dados </a>
+
+Aqui você vai ter uma visão geral sobre o Pyhton e avançar o conteúdo até compreender conceitos muito importantes da linguagem que podem ser usados em qualquer especificidade que escolher. 
+
+### Análise de dados
+
+Para você se aprofundar na análise de dados e entender como aplicar algumas ferramentas, separei alguns repositórios específicos para isso:
+- <a href="https://github.com/r-hugoalves/Coleta_de_Dados"> 📡 Coleta de Dados </a>
+- <a href="https://github.com/r-hugoalves/Data_Wrangling"> 👨‍💻 Data Wrangling (Tratamento e Manipulação dos Dados) </a>
+- <a href="https://github.com/r-hugoalves/Resumo_Comandos_SQL"> 🐬 Resumo de Comandos SQL </a>
+
+### Projetos divertidos
+
+Praticar é sempre bom, né? Ainda mais se for algo um pouco distoante do comum. Por isso, separei três repositórios com projetos bem legais pra você praticar o Python:
+- <a href="https://github.com/r-hugoalves/Blackjack-Card-Game-Project"> ♦️ Blackjack Card Game (21) </a>
+- <a href="https://github.com/r-hugoalves/Rock-Paper-Scissors-Intro-Project"> ✂️ Rock, Paper and Scissor (Pedra, Papel e Tesoura) </a>
+- <a href="https://github.com/r-hugoalves/Creating_a_chatbot"> 💬 Chatbot (Utilizando Flask) </a>
