@@ -16,3 +16,8 @@
   <a href="https://www.linkedin.com/in/r-hugo-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:hugo_mundo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
+
+### Antes de começarmos os projetos aqui no Github, fica a dica de leitura de dois livros que escrevi: 
+- <a href="https://a.co/d/5O8ANke"> 📚 Abismo Marinho - Vol 1 </a>
+- <a href="https://a.co/d/8rfdwck"> 📚 Angústias e Amores de um Pseudopoeta </a>
+
