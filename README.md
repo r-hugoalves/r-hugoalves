@@ -43,9 +43,16 @@ Para você se aprofundar na análise de dados e entender como aplicar algumas fe
 - <a href="https://github.com/r-hugoalves/Resumo_Comandos_SQL"> 🐬 Resumo de Comandos SQL </a>
 - <a href="https://github.com/r-hugoalves/Visualizacao_de_Dados"> 📊 Visualização de Dados </a>
 
+ <br>
+ 
+ ### Dashboards
+ 
+ Quer conhecer alguns dashboards de PowerBI legais para trabalhar nas apresentações? Só clicar no link abaixo:
+ - <a href="https://github.com/r-hugoalves/Dashboards_Power_BI"> 📊 Dashboards PowerBI </a>
+
 ### Projetos divertidos
 
-Praticar é sempre bom, né? Ainda mais se for algo um pouco distoante do comum. Por isso, separei três repositórios com projetos bem legais pra você praticar o Python:
+Praticar é sempre bom, né? Ainda mais se for algo um pouco destoante do comum. Por isso, separei três repositórios com projetos bem legais pra você praticar o Python:
 - <a href="https://github.com/r-hugoalves/Blackjack-Card-Game-Project"> ♦️ Blackjack Card Game (21) </a>
 - <a href="https://github.com/r-hugoalves/Rock-Paper-Scissors-Intro-Project"> ✂️ Rock, Paper and Scissor (Pedra, Papel e Tesoura) </a>
 - <a href="https://github.com/r-hugoalves/Creating_a_chatbot"> 💬 Chatbot (Utilizando Flask) </a>
