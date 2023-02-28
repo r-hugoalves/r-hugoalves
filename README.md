@@ -43,10 +43,12 @@ Para você se aprofundar na análise de dados e entender como aplicar algumas fe
 - <a href="https://github.com/r-hugoalves/Resumo_Comandos_SQL"> 🐬 Resumo de Comandos SQL </a>
 - <a href="https://github.com/r-hugoalves/Visualizacao_de_Dados"> 📊 Visualização de Dados </a>
  
- ### Dashboards
+ ### Projetos Completos
  
- Quer conhecer alguns dashboards de PowerBI legais para trabalhar nas apresentações? Só clicar no link abaixo:
- - <a href="https://github.com/r-hugoalves/Dashboards_Power_BI"> 📊 Dashboards PowerBI </a>
+ Quer acompanhar do zero alguns projetos? Ou seja, desde a extração dos dados, passando pela manipulação e tratamento, e por fim a montagem de um dashboard no PowerBI?
+ Confira alguns exemplos: 
+ 
+ - <a href="https://github.com/r-hugoalves/Projeto_Completo_Analise_Unicornios_2023"> 🦄 Análise Unicórnios 2023 </a>
 
 ### Projetos divertidos
 
