@@ -48,6 +48,7 @@ Para você se aprofundar na análise de dados e entender como aplicar algumas fe
  Confira alguns exemplos: 
  
  - <a href="https://github.com/r-hugoalves/Projeto_Completo_Analise_Unicornios_2023"> 🦄 Análise Unicórnios 2023 </a>
+ - <a href="https://github.com/r-hugoalves/Projeto_Completo_Analise_Censo_2010"> 👨‍👩‍👧‍👦 Análise Censo de 2010 - População </a>
 
 ### Projetos divertidos
 
