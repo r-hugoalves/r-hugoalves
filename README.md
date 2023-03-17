@@ -41,6 +41,12 @@ Para você se aprofundar na análise de dados e entender como aplicar algumas fe
 - <a href="https://github.com/r-hugoalves/Data_Wrangling"> 👨‍💻 Data Wrangling (Tratamento e Manipulação dos Dados) </a>
 - <a href="https://github.com/r-hugoalves/Resumo_Comandos_SQL"> 🐬 Resumo de Comandos SQL </a>
 - <a href="https://github.com/r-hugoalves/Visualizacao_de_Dados"> 📊 Visualização de Dados </a>
+
+### Dashboards PowerBI
+
+Aqui você encontra um repositório exclusivo para os arquivos de PowerBI que foram trabalhados individualmente, ou nos projetos completos abaixo
+
+- <a href="https://github.com/r-hugoalves/Dashboards_Power_BI"> 📈 Dashboards PowerBI </a>
  
  ### Projetos Completos
  
