@@ -26,6 +26,15 @@
 ## Vamos aos projetos!
 Aqui você vai encontrar diversos repositórios focados especificamente em análise de dados. Usando como linguagem principal, o Python.
 
+ ### Projetos Completos
+ 
+ Quer acompanhar do zero alguns projetos? Ou seja, desde a extração dos dados, passando pela manipulação e tratamento, e por fim a montagem de um dashboard no PowerBI?
+ Confira alguns exemplos: 
+ 
+ - <a href="https://github.com/r-hugoalves/Analise_Exploratoria_Loggi"> 🐇 Análise Exploratória de Dados - Loggi </a>
+ - <a href="https://github.com/r-hugoalves/Projeto_Completo_Analise_Unicornios_2023"> 🦄 Análise Unicórnios 2023 </a>
+ - <a href="https://github.com/r-hugoalves/Projeto_Completo_Analise_Censo_2010"> 👨‍👩‍👧‍👦 Análise Censo de 2010 - População </a>
+
 ### Visão Geral do Python
 
 Se você está começando agora e pretende ter uma visão geral de como usar o python e aplicar os conceitos, vale a pena dar uma olhada nesse repositório: 
@@ -47,14 +56,6 @@ Para você se aprofundar na análise de dados e entender como aplicar algumas fe
 Aqui você encontra um repositório exclusivo para os arquivos de PowerBI que foram trabalhados individualmente, ou nos projetos completos abaixo
 
 - <a href="https://github.com/r-hugoalves/Dashboards_Power_BI"> 📈 Dashboards PowerBI </a>
- 
- ### Projetos Completos
- 
- Quer acompanhar do zero alguns projetos? Ou seja, desde a extração dos dados, passando pela manipulação e tratamento, e por fim a montagem de um dashboard no PowerBI?
- Confira alguns exemplos: 
- 
- - <a href="https://github.com/r-hugoalves/Projeto_Completo_Analise_Unicornios_2023"> 🦄 Análise Unicórnios 2023 </a>
- - <a href="https://github.com/r-hugoalves/Projeto_Completo_Analise_Censo_2010"> 👨‍👩‍👧‍👦 Análise Censo de 2010 - População </a>
 
 ### Projetos divertidos
 
