@@ -19,12 +19,11 @@
   <a href = "mailto:hugo_mundo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
 
-### Antes de começarmos os projetos aqui no Github, fica a dica de leitura de dois livros que escrevi: 
-- <a href="https://a.co/d/5O8ANke"> 📚 Abismo Marinho - Vol 1 </a>
-- <a href="https://a.co/d/8rfdwck"> 📚 Angústias e Amores de um Pseudopoeta </a>
-
 ## Vamos aos projetos!
 Aqui você vai encontrar diversos repositórios focados especificamente em análise de dados. Usando como linguagem principal, o Python.
+Se você preferir algo mais visual, com alguém explicando, também temos! Dá uma conferida nos meus tutoriais lá no YouTube:
+
+- <a href="https://www.youtube.com/@r.hugoalves"> Tutorias YouTube </a>
 
  ### Projetos Completos
  
@@ -51,15 +50,13 @@ Para você se aprofundar na análise de dados e entender como aplicar algumas fe
 - <a href="https://github.com/r-hugoalves/Resumo_Comandos_SQL"> 🐬 Resumo de Comandos SQL </a>
 - <a href="https://github.com/r-hugoalves/Visualizacao_de_Dados"> 📊 Visualização de Dados </a>
 
-### Dashboards PowerBI
-
-Aqui você encontra um repositório exclusivo para os arquivos de PowerBI que foram trabalhados individualmente, ou nos projetos completos abaixo
-
-- <a href="https://github.com/r-hugoalves/Dashboards_Power_BI"> 📈 Dashboards PowerBI </a>
-
 ### Projetos divertidos
 
 Praticar é sempre bom, né? Ainda mais se for algo um pouco destoante do comum. Por isso, separei três repositórios com projetos bem legais pra você praticar o Python:
 - <a href="https://github.com/r-hugoalves/Blackjack-Card-Game-Project"> ♦️ Blackjack Card Game (21) </a>
 - <a href="https://github.com/r-hugoalves/Rock-Paper-Scissors-Intro-Project"> ✂️ Rock, Paper and Scissor (Pedra, Papel e Tesoura) </a>
 - <a href="https://github.com/r-hugoalves/Creating_a_chatbot"> 💬 Chatbot (Utilizando Flask) </a>
+
+### Se você curte, assim como eu, ler bastante, fica a dica de leitura de dois livros que escrevi: 
+- <a href="https://a.co/d/5O8ANke"> 📚 Abismo Marinho - Vol 1 </a>
+- <a href="https://a.co/d/8rfdwck"> 📚 Angústias e Amores de um Pseudopoeta </a>
