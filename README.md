@@ -40,7 +40,7 @@ Se você preferir algo mais visual, com alguém explicando, também temos! Dá u
 
 Se você está começando agora e pretende ter uma visão geral de como usar o Python ou SQL e aplicar os conceitos, vale a pena dar uma olhada nesses repositórios: 
 
-- <a href="https://github.com/r-hugoalves/Python_Analise_de_Dados"> 📈 Python - Análise de Dados </a>
+- <a href="https://github.com/r-hugoalves/Python_Analise_de_Dados"> 🐍 Python - Análise de Dados </a>
 - <a href="https://github.com/r-hugoalves/SQL"> 🐬 Aulão SQL </a>
 
 Aqui você vai ter uma visão geral sobre o Pyhton e avançar o conteúdo até compreender conceitos muito importantes da linguagem que podem ser usados em qualquer especificidade que escolher. 
