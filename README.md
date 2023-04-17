@@ -5,6 +5,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" height="30" width="80" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
@@ -18,6 +19,7 @@
   <a href="https://www.linkedin.com/in/r-hugo-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:hugo_mundo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
+  <a href="https://www.youtube.com/@r.hugoalves" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 ## Vamos aos projetos!
 Aqui você vai encontrar diversos repositórios focados especificamente em análise de dados. Usando como linguagem principal, o Python.
@@ -34,11 +36,12 @@ Se você preferir algo mais visual, com alguém explicando, também temos! Dá u
  - <a href="https://github.com/r-hugoalves/Projeto_Completo_Analise_Unicornios_2023"> 🦄 Análise Unicórnios 2023 </a>
  - <a href="https://github.com/r-hugoalves/Projeto_Completo_Analise_Censo_2010"> 👨‍👩‍👧‍👦 Análise Censo de 2010 - População </a>
 
-### Visão Geral do Python
+### Visão Geral do Python e SQL
 
-Se você está começando agora e pretende ter uma visão geral de como usar o python e aplicar os conceitos, vale a pena dar uma olhada nesse repositório: 
+Se você está começando agora e pretende ter uma visão geral de como usar o Python ou SQL e aplicar os conceitos, vale a pena dar uma olhada nesses repositórios: 
 
 - <a href="https://github.com/r-hugoalves/Python_Analise_de_Dados"> 📈 Python - Análise de Dados </a>
+- <a href="https://github.com/r-hugoalves/SQL"> 🐬 Aulão SQL </a>
 
 Aqui você vai ter uma visão geral sobre o Pyhton e avançar o conteúdo até compreender conceitos muito importantes da linguagem que podem ser usados em qualquer especificidade que escolher. 
 
