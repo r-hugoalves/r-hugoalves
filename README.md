@@ -34,6 +34,7 @@ Se você preferir algo mais visual, com alguém explicando, também temos! Dá u
  
  - <a href="https://github.com/r-hugoalves/Projeto_IMDB_Series"> 🎦 IMDB Séries - Com Tutorial no Youtube </a>
  - <a href="https://github.com/r-hugoalves/Analise_Exploratoria_Loggi"> 🐇 Análise Exploratória de Dados - Loggi </a>
+ - <a href="https://github.com/r-hugoalves/EDA_com_SQL_e_AWS"> 🎲 Exploração e análise de dados de crédito com SQL na AWS S3 e Athena </a>
  - <a href="https://github.com/r-hugoalves/Projeto_Completo_Analise_Unicornios_2023"> 🦄 Análise Unicórnios 2023 </a>
  - <a href="https://github.com/r-hugoalves/Projeto_Completo_Analise_Censo_2010"> 👨‍👩‍👧‍👦 Análise Censo de 2010 - População </a>
 
