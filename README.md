@@ -1,25 +1,15 @@
 # Olá, eu me chamo Hugo!
 
 ### Aqui estão as principais ferramentas com que eu trabalho: 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" height="30" width="80" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-  <img align="center" height="30" width="80" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img align="center" height="30" width="80" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
-</div>
+Python | SQL| PySpark | Big Data | AWS S3 | AWS Athena | PowerBI | Selenium | Pandas | Excel | Google Sheets | ETL | EDA | API 
 
 ### Se precisar entrar em contato comigo, aqui estão algumas formas:
 <div>
-  <a href = "mailto:r.hugoalves66@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/r-hugo-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:hugo_mundo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-</div>
-  <a href="https://www.youtube.com/@r.hugoalves" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href = "mailto:r.hugoalves66@gmail.com"> GMAIL |  </a> 
+  <a href="https://www.linkedin.com/in/r-hugo-alves/" target="_blank"> LINKEDIN |  </a> 
+  <a href = "mailto:hugo_mundo@hotmail.com"> OUTLOOK |  </a> 
+  <a href="https://www.youtube.com/@r.hugoalves" target="_blank"> YOUTUBE</a>
+ </div>
 
 ## Vamos aos projetos!
 Aqui você vai encontrar diversos repositórios focados especificamente em análise de dados. Usando como linguagem principal, o Python.
